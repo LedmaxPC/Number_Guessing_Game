@@ -1,0 +1,10 @@
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp7\DesktopApp7\bin\Debug\DesktopApp7.exe.config
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp7\DesktopApp7\bin\Debug\DesktopApp7.exe
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp7\DesktopApp7\bin\Debug\DesktopApp7.pdb
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp7\DesktopApp7\obj\Debug\DesktopApp7.csprojAssemblyReference.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp7\DesktopApp7\obj\Debug\DesktopApp7.Form1.resources
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp7\DesktopApp7\obj\Debug\DesktopApp7.Properties.Resources.resources
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp7\DesktopApp7\obj\Debug\DesktopApp7.csproj.GenerateResource.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp7\DesktopApp7\obj\Debug\DesktopApp7.csproj.CoreCompileInputs.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp7\DesktopApp7\obj\Debug\DesktopApp7.exe
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp7\DesktopApp7\obj\Debug\DesktopApp7.pdb
